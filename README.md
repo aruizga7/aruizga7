@@ -1,46 +1,57 @@
 # Hi, I'm Armand Ruiz 👋
 
 <p align="left">
-  <a href="https://leadersai.substack.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Newsletter-Leaders%20in%20AI-blue?style=for-the-badge&logo=substack" alt="Leaders in AI Newsletter">
+  <a href="https://leadersai.substack.com/">
+    <img src="https://img.shields.io/badge/Newsletter-77K%2B%20subscribers-blue?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter">
   </a>
-  <a href="https://www.linkedin.com/in/armand-ruiz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Armand%20Ruiz-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/armand-ruiz">
+    <img src="https://img.shields.io/badge/LinkedIn-204K%2B%20followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/armand_ruiz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-%40armand_ruiz-000000?style=for-the-badge&logo=x" alt="X">
+  <a href="https://x.com/armand_ruiz">
+    <img src="https://img.shields.io/badge/X-@armand__ruiz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://armand-md.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-armand--md.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
 </p>
 
-I build AI systems at scale — from platforms to agents to the teams that ship them. I'm currently building at **Meta** and previously served as the **VP of AI Platform at IBM**. Originally from Barcelona, now based in the Bay Area.
+I build AI systems at scale — from platforms to agents to the teams that ship them.
+
+Currently at **Meta**. Previously **VP of AI Platform at IBM**.
+
+From Barcelona, based in the Bay Area.
 
 ---
 
-### 🛠️ My Tech Stack
+### What I Do
+
+- Building AI infrastructure and platforms used by thousands of engineers
+- Writing [Leaders in AI](https://leadersai.substack.com/), a newsletter with 77,000+ subscribers
+- Shipping open-source tools at [the-nocode-ai](https://github.com/the-nocode-ai) and [replier-ai](https://github.com/replier-ai)
+
+---
+
+### Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,pytorch,tensorflow,sklearn,pandas,docker,gcp,aws,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,r,js,ts,pytorch,tensorflow,sklearn,docker,aws,gcp,linux,git,fastapi,flask,postgres,mongodb&perline=8" />
   </a>
 </p>
 
+---
 
-### 📊 My GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aruizga7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Armand's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruizga7&layout=compact&theme=transparent&langs_count=8" alt="Armand's Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aruizga7&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruizga7&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aruizga7&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="Armand's Contribution Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=aruizga7&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
 
-> "It is kind of fun to do the impossible." — Walt Disney
+> *"It is kind of fun to do the impossible."* — Walt Disney
