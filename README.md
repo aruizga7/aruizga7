@@ -6,7 +6,7 @@ I build AI systems at scale — platforms, agents, and the teams that ship them.
 
 Right now I'm deep in compound AI systems — moving beyond monolithic models into agents, evals, and the infrastructure that makes them work at scale.
 
-I write about what I learn in **[AI with Armand](https://leadersai.substack.com/)**, a newsletter with 50,000+ subscribers. Recent posts:
+I write about what I learn in **[AI with Armand](https://leadersai.substack.com/)**, a newsletter with 77,000+ subscribers. Recent posts:
 
 | Date | Post |
 | --- | --- |
